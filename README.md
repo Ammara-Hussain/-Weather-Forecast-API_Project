@@ -40,7 +40,7 @@ weather-app/
 
 Clone this repository:
 
-git clone https://github.com/yourusername/weather-forecast-website.git
+git clone https://github.com/ammara-hussain/weather-forecast-website.git
 cd weather-forecast-website
 
 
