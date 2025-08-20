@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather API Project</title>
+    <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+<body> <!--header section-->
+    <header>
+        <div class="heading">
+            <h1>Real-Time Weather Forecast</h1>
+            <p class="tagline">Your Weather Companion for every day 🌍</p>
+        </div>
+    </header>
+    <!--Search section-->
+    <section class ="search">
+        <input type="text" id="location" placeholder="Enter Your Location"/> 
+        <button id="search-btn"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </section>
+        <!--Description section-->
+        <section class="description">
+        <div class="card-container">
+            <div class="text-container">
+                <h2 class="subheading">Weather-Forecast description</h1>
+                <i class="fa-solid fa-sun"></i>
+                  <i class="fa-solid fa-bolt"></i>
+                   <i class="fa-solid fa-cloud"></i>
+                
+
+                <p class="text" id="status">Weather details will appear here...</p>
+               <div class="weather-info">
+
+                <!--Step 1: Linking the UI to Javascript-->
+                <h2>City:<span id="city">-</span></h2>
+                <p>Temperature:<span id="temperature">-</span></p>
+                <p>Condition:<span id="condition">-</span></p>
+                <p>Humidity:<span id="humidity">-</span></p>
+                <p>Wind Speed:<span id="wind">-</span></p>
+                <p>Wind Direction:<span id="direction">-</span></p>
+                <p>Feels Like:<span id="feeling">-</span></p>
+               </div>  
+            </div>
+            
+        </div>
+        </section>
+
+    
+    <script src="app.js"></script>
+</body>
+</html>
