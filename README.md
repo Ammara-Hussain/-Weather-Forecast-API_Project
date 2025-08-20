@@ -60,7 +60,7 @@ Preview:
 
 https://github.com/user-attachments/assets/e41abcb8-7802-404b-beb0-7196f18d1de3
 
-Live Demo:
+Live Demo:  https://ammara-hussain.github.io/-Weather-Forecast-API_Project/
 
 Author:
 
