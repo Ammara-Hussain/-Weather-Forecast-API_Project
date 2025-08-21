@@ -1,5 +1,12 @@
 🌦️ Real-Time Weather Forecast Website
 
+Live Preview:https://ammara-hussain.github.io/Weather-Forecast-App/
+
+Live Demo:https://github.com/user-attachments/assets/e41abcb8-7802-404b-beb0-7196f18d1de3
+
+
+
+
 A responsive and interactive Weather Forecast Website built using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API.
 Users can search for any city and instantly get real-time weather conditions, including temperature, humidity, wind speed, and more.
 
@@ -49,18 +56,6 @@ Open index.html in your browser.
 Add your OpenWeatherMap API Key in script.js:
 
 const apiKey = "YOUR_API_KEY_HERE";
-
-Preview:
-
-
-
-
-
-
-
-https://github.com/user-attachments/assets/e41abcb8-7802-404b-beb0-7196f18d1de3
-
-Live Demo:  https://ammara-hussain.github.io/-Weather-Forecast-API_Project/
 
 Author:
 
